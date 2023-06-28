@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Entrance.qml</file>
+        <file>Figures.js</file>
+        <file>FirstPage.qml</file>
+        <file>SecondPage.qml</file>
+    </qresource>
+</RCC>
