@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/11.22.63.png</file>
+        <file>images/1984.png</file>
+        <file>images/beznadega.png</file>
+        <file>images/boy.png</file>
+        <file>images/kvazi.png</file>
+        <file>images/narnia.png</file>
+        <file>images/scot.png</file>
+    </qresource>
+</RCC>
